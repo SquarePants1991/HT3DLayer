@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="HT3DLayer-Example" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="HT3DLayer" TARGET_NAME="HT3DLayer_Example" CONFIG_NAME="Debug" SCHEME_NAME="HT3DLayer-Example" RUN_TARGET_PROJECT_NAME="HT3DLayer" RUN_TARGET_NAME="HT3DLayer_Example" MAKE_ACTIVE="TRUE">
+    <envs />
+    <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+      <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+    </EXTENSION>
+    <method />
+  </configuration>
+</component>

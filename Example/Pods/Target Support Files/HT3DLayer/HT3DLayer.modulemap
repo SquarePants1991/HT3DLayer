@@ -1,0 +1,6 @@
+framework module HT3DLayer {
+  umbrella header "HT3DLayer-umbrella.h"
+
+  export *
+  module * { export * }
+}
