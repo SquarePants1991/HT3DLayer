@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HT3DLayer_Example' do
+  pod 'HT3DLayer', :path => '../'
+
+  target 'HT3DLayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
